@@ -1,7 +1,7 @@
 {
   "name": "Squared Circle Helper",
   "short_name": "Squared Circle",
-  "description": "A personal wrestling territory simulation helper.",
+  "description": "Offline wrestling territory simulation helper.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
